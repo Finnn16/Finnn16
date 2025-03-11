@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.tenor.com/m/Aq6dEaXiDnYAAAAC/falling-mark-grayson.gif" width="600">
+    <p>A student working fulltime as an IT Support. Passionate about technology, code, and data analysis. Currently learning and improving my skills in the tech field.</p>
 </div>
 <br>
 

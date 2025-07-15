@@ -16,7 +16,7 @@ work_at: PT. Trimas Sarana Garment Industri
 
 technical_background:
   [
-    "IT Support (Current)",
+    "IT Support (January 2025 - Current)",
     "Network Engineer At EasyNet (3 Years)",
     "Web Developer Intern At Diskominfo Jawa Barat (4 Months)",
   ]

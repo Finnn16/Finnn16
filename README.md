@@ -9,7 +9,7 @@ Located: Bandung, West Java
 current_job: IT Support
 education:
   [
-    "Bachelor Degree Information Technology (Semester 2)",
+    "Bachelor Degree Information Technology (Sophomore)",
     "Vocational High School "Software Engineering" (Graduated)",
   ]
 work_at: PT. Trimas Sarana Garment Industri
